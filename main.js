@@ -1,5 +1,5 @@
-const width =  window.innerWidth/1.25;
-const height =   window.innerHeight/1.25;
+const width =  4000;
+const height =   2000;
 
 
 let slider;
